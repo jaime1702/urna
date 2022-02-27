@@ -13,4 +13,7 @@
     <string name="Btn_9">9</string>
     <string name="Btn_5">5</string>
     <string name="Btn_8">8</string>
+    <string name="digite_seu_voto">Digite seu voto!</string>
+    <string name="digite_seu_voto_aqui">Digite seu Voto aqui!</string>
+    <string name="_1">1</string>
 </resources>
